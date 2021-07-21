@@ -124,8 +124,11 @@ Examples
 
 ![](https://i.imgur.com/DtGeZzA.png)
 
-
-## Contributors
-* [Rishabh Verma](github.com/RiVer2000)
+## Contributors: 
+* [Ayush](https://github.com/Ayush1285)
+* [Mokshada Barhate](https://github.com/mokshada14)
+* [Rishabh Verma](https://github.com/RiVer2000)
+* [Ritesh Zoad](https://github.com/RiteshZoad)
+* [Rushika Joshi](https://github.com/rushikajoshi)
 
 
