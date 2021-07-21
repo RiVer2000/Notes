@@ -125,6 +125,7 @@ Examples
 ![](https://i.imgur.com/DtGeZzA.png)
 
 
-
+## Contributors
+* [Rishabh Verma](github.com/RiVer2000)
 
 
