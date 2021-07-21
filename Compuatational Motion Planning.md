@@ -261,4 +261,9 @@ Thus, if the procedure doesn't find a path, it's hard to know whether there is i
 * One way to visualize that each of these control points is outfitted with a proximity sensor which it can use to detect the range to nearby obstacles. The artificial potential field uses this information to push each of these control points away from obstacles while guiding them towards their desired goals.
 * The effect of all of these pushes and pulls is arrogated in the artificial potential field and the gradient information is used to decide how to move locally.
 
-
+## Contributors: 
+* [Ayush](https://github.com/Ayush1285)
+* [Mokshada Barhate](https://github.com/mokshada14)
+* [Rishabh Verma](https://github.com/RiVer2000)
+* [Ritesh Zoad](https://github.com/RiteshZoad)
+* [Rushika Joshi](https://github.com/rushikajoshi)
